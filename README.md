@@ -6,7 +6,7 @@ A practice space to store activities from various workshops
 + TBD
 
 ### files included:
-- TBD
+- README.md
 
 more to be added pending additional workshops and activities.
-Keep coding!
+keep coding! be well!
